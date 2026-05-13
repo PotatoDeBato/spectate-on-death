@@ -1,0 +1,9 @@
+{
+  "name": "Spectate on death",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "type": "javascript",
+  "scripts": [
+    "scripts/main.js"
+  ]
+}
